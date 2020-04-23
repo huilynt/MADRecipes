@@ -8,3 +8,14 @@ MAD Recipes is a recipe management application:
 * Timers complete the set, saving you plenty of effort.
 
 More info can be found [here](https://docs.google.com/presentation/d/1khuu2DK6t2wdprv7h5QVXHrPD9bLhoglZcXfZme-jdE/edit?usp=sharing)!
+
+#### Module
+Mobile Applications Development I (MAD I)
+
+#### Objectives
+Develop an Android application
+
+#### Languages/Programmes
+* Java
+* Android Studio
+* sqlite
