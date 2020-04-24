@@ -9,6 +9,7 @@ MAD Recipes is a recipe management application:
 
 More info can be found [here](https://docs.google.com/presentation/d/1khuu2DK6t2wdprv7h5QVXHrPD9bLhoglZcXfZme-jdE/edit?usp=sharing)!
 
+Also available on [Playstore](https://play.google.com/store/apps/details?id=com.madrecipes.app.madrecipes&hl=en)
 #### Module
 Mobile Applications Development I (MAD I)
 
